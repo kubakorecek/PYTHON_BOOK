@@ -1,0 +1,16 @@
+Type integer for some basic calculation, followed by Enter or simply type Enter to finish
+mean:  7.0 # of Numbers:  1 Sum:  7
+mean:  7.5 # of Numbers:  2 Sum:  15
+mean:  8.0 # of Numbers:  3 Sum:  24
+mean:  8.25 # of Numbers:  4 Sum:  33
+mean:  8.4 # of Numbers:  5 Sum:  42
+mean:  8.5 # of Numbers:  6 Sum:  51
+mean:  8.571428571428571 # of Numbers:  7 Sum:  60
+mean:  19.875 # of Numbers:  8 Sum:  159
+ Not an INTEGER, AGAIN PLEASE
+mean:  8.641975308641975e+23 # of Numbers:  9 Sum:  7777777777777777777777936
+mean:  7.777777777777786e+23 # of Numbers:  10 Sum:  7777777777777785555555713
+mean:  7.070707070707078e+23 # of Numbers:  11 Sum:  7777777777777785633333490
+mean:  6.481481481481488e+23 # of Numbers:  12 Sum:  7777777777777785711111267
+mean:  5.982905982905989e+23 # of Numbers:  13 Sum:  7777777777777785711112044
+mean:  5.5555555555555615e+23 # of Numbers:  14 Sum:  7777777777777785712000932
